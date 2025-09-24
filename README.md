@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![picture]()
+  ![picture](https://github.com/nurhachar-sibei/nurhachar-sibei/blob/main/1450541491644P-4Y0W.gif)
 
 ---
 
@@ -38,8 +38,6 @@
 
 ### 📈 Financial & Quantitative Tools
 
-![Bloomberg](https://img.shields.io/badge/Bloomberg-000000?style=for-the-badge&logo=bloomberg&logoColor=white)
-![QuantLib](https://img.shields.io/badge/QuantLib-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
 ![Backtrader](https://img.shields.io/badge/Backtrader-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔧 Automation & DevOps
