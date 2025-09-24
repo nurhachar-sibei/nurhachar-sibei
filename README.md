@@ -39,7 +39,7 @@
 ### 📈 Financial & Quantitative Tools
 
 ![Backtrader](https://img.shields.io/badge/Backtrader-4CAF50?style=for-the-badge&logo=python&logoColor=white)
-
+![Betalens](https://img.shields.io/badge/Backtrader-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 ### 🔧 Automation & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
