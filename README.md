@@ -11,7 +11,7 @@
 > **すべてはシュタインズゲートの選択だ。**
 
 Hello! I'm Nurhachar (清兵衛), a developer pursuing the magic of automation in the world of finance and data science.
-<div align = 'right'>
+
 - 🧮 **Quantitative Finance Enthusiast** - Passionate about algorithmic trading and quantitative analysis
 - 🔍 **Data Science Explorer** - Love discovering insights from data  
 - 🎯 **Goal** - Automate all the work! Efficiency is the key to the future
