@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![picture]([https://github.com/nurhachar-sibei/nurhachar-sibei/blob/master/1450541491644P-4Y0W.gif](https://github.com/nurhachar-sibei/nurhachar-sibei/blob/main/1450541491644P-4Y0W.gif?raw=true))
+  ![picture](https://github.com/nurhachar-sibei/nurhachar-sibei/blob/main/1450541491644P-4Y0W.gif)
 
 ---
 
@@ -39,7 +39,7 @@
 ### 📈 Financial & Quantitative Tools
 
 ![Backtrader](https://img.shields.io/badge/Backtrader-4CAF50?style=for-the-badge&logo=python&logoColor=white)
-
+![Betalens](https://img.shields.io/badge/Betalens-F21589?style=for-the-badge&logo=python&logoColor=white)
 ### 🔧 Automation & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
