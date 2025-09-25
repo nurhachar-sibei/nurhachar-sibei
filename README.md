@@ -10,12 +10,12 @@
 
 > **すべてはシュタインズゲートの選択だ。**
 
-こんにちは！清兵衛です。金融とデータサイエンスの世界で自動化の魔法を追求している開発者です。
+Hello! I'm Nurhachar (清兵衛), a developer pursuing the magic of automation in the world of finance and data science.
 
-- 🧮 **金融量化愛好者** - アルゴリズム取引と量的分析に情熱を注いでいます
-- 🔍 **データ科学探索者** - データから洞察を見つけ出すことが大好きです
-- 🎯 **目標** - 仕事を自動化しまくる！効率化こそが未来への鍵
-- 🌱 現在学習中: **機械学習**、**量的金融**、**自動化ツール**
+- 🧮 **Quantitative Finance Enthusiast** - Passionate about algorithmic trading and quantitative analysis
+- 🔍 **Data Science Explorer** - Love discovering insights from data  
+- 🎯 **Goal** - Automate all the work! Efficiency is the key to the future
+- 🌱 Currently learning: **Machine Learning**, **Quantitative Finance**, **Automation Tools**
 
 ---
 
