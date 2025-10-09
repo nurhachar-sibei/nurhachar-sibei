@@ -63,6 +63,5 @@ Hello! I'm Nurhachar (清兵衛), a developer pursuing the magic of automation i
 ---
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhachar-sibei&show_icons=true&theme=buefy&hide_border=true" alt="" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhachar-sibei&layout=compact&theme=buefy&hide_border=true" alt="" />
-| - | - |
-=======
+
 
